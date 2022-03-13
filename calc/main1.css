@@ -1,0 +1,20 @@
+.r-calc {  
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(153, 216, 245);
+    padding: 20px;
+    border:1px solid black; 
+}
+ .r-calc .operations-block button {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+.r-calc .inputs-block .input-block {
+    display: inline-block;
+    padding: 10px;
+}
+.r-calc .inputs-block .input-block label {
+    display: block; 
+}
